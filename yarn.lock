@@ -136,6 +136,11 @@
   resolved "https://registry.yarnpkg.com/@sqltools/formatter/-/formatter-1.2.3.tgz#1185726610acc37317ddab11c3c7f9066966bd20"
   integrity sha512-O3uyB/JbkAEMZaP3YqyHH7TMnex7tWyCbCI4EfJdOCoN6HIhqdJBWTM6aCCiWQ/5f5wxjgU735QAIpJbjDvmzg==
 
+"@stripe/stripe-js@^1.21.0":
+  version "1.21.0"
+  resolved "https://registry.yarnpkg.com/@stripe/stripe-js/-/stripe-js-1.21.0.tgz#710768ad4985d31fb0fdef6aee1ec0e0b4287a67"
+  integrity sha512-6C3XsUXZm81G8NFcTqRIBVCYSMau3a2hUkoKSSYIK8NNbzwWFM8eV6BiTUOjMmNsSg/VBn97VmKM0pHVlCAtJA==
+
 "@types/next-auth@^3.15.0":
   version "3.15.0"
   resolved "https://registry.yarnpkg.com/@types/next-auth/-/next-auth-3.15.0.tgz#b602f4689b35fff3d2af09500c79ab11c4745bca"
@@ -302,6 +307,13 @@ available-typed-arrays@^1.0.2:
   integrity sha512-XWX3OX8Onv97LMk/ftVyBibpGwY5a8SmuxZPzeOxqmuEqUCOM9ZE+uIaD1VNJ5QnvU2UQusvmKbuM1FR8QWGfQ==
   dependencies:
     array-filter "^1.0.0"
+
+axios@^0.24.0:
+  version "0.24.0"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-0.24.0.tgz#804e6fa1e4b9c5288501dd9dff56a7a0940d20d6"
+  integrity sha512-Q6cWsys88HoPgAaFAVUb0WpPk0O8iTeisR9IMqy9G8AbO4NlpVknrnQS03zzF9PGAWgO3cgletO3VjV/P7VztA==
+  dependencies:
+    follow-redirects "^1.14.4"
 
 babel-plugin-syntax-jsx@6.18.0:
   version "6.18.0"
@@ -975,6 +987,11 @@ fn-annotate@^1.1.3:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/fn-annotate/-/fn-annotate-1.2.0.tgz#28da000117dea61842fe61f353f41cf4c93a7a7e"
   integrity sha1-KNoAARfephhC/mHzU/Qc9Mk6en4=
+
+follow-redirects@^1.14.4:
+  version "1.14.5"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.5.tgz#f09a5848981d3c772b5392309778523f8d85c381"
+  integrity sha512-wtphSXy7d4/OR+MvIFbCVBDzZ5520qV8XfPklSN5QtxuMUJZ+b0Wnst1e1lCDocfzuCkHqj8k0FpZqO+UIaKNA==
 
 foreach@^2.0.5:
   version "2.0.5"
