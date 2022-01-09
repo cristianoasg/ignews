@@ -1,5 +1,7 @@
 {
   "cSpell.ignoreWords": [
     "ignews"
-  ]
+  ],
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active"
 }
